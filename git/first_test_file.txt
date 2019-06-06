@@ -1,1 +1,2 @@
 Add a line in the first_test_file from master branch.
+Change a line in the first_test_file from master branch.
