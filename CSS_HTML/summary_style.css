@@ -1,0 +1,77 @@
+body{
+	background:rgb(138,72,166);
+	color:white;
+}
+#block1_picture{
+	background:rgb(103,52,124);
+	width:30px;
+    height:320px;
+	position:absolute;
+	left:250px;
+}
+#block2_picture{
+	background:rgb(77,39,90);
+	width:240px;
+    height:320px;
+	position:absolute;
+	left:280px;
+}
+#Leopold_picture{
+	position:absolute;
+	left:290px;
+	top:30px;
+}
+#contact_block{
+	background:rgb(77,39,90);
+	width:270px;
+	height:100px;
+	position:absolute;
+	left:250px;
+	top:400px;
+}
+#name{
+	background:rgb(103,52,124);
+	width:240px;
+    height:80px;
+	position:absolute;
+	left:540px;
+}
+
+#information_block1{
+	background:rgb(103,52,124);
+	width:310px;
+    height:200px;
+	position:absolute;
+	left:800px;
+}
+#information_block2{
+	background:rgb(77,39,90);
+	width:310px;
+    height:180px;
+	position:absolute;
+	left:800px;
+	top:200px;
+}
+#information_block3{
+	background:rgb(103,52,124);
+	width:310px;
+    height:180px;
+	position:absolute;
+	left:800px;
+	top:380px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
