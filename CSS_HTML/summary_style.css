@@ -1,6 +1,7 @@
 body{
 	background:rgb(138,72,166);
 	color:white;
+	font-family:URW Chancery L, cursive;
 }
 #block1_picture{
 	background:rgb(103,52,124);
@@ -19,15 +20,22 @@ body{
 #Leopold_picture{
 	position:absolute;
 	left:290px;
-	top:30px;
+	top:23px;
+}
+#Computer_picture{
+	position:absolute;
+	left:560px;
+	top:200px;
 }
 #contact_block{
 	background:rgb(77,39,90);
 	width:270px;
-	height:100px;
+	height:60px;
 	position:absolute;
 	left:250px;
 	top:400px;
+	box-sizing:border-box;
+	padding: 0px 15px ;
 }
 #name{
 	background:rgb(103,52,124);
@@ -35,22 +43,38 @@ body{
     height:80px;
 	position:absolute;
 	left:540px;
+	box-sizing:border-box;
+	padding: 0px 20px;
+}
+#name_pod{
+	background:rgb(77,39,90);
+	width:240px;
+    height:50px;
+	position:absolute;
+	left:540px;
+	top:80px;
+	box-sizing:border-box;
+	padding: 0px 20px ;
 }
 
 #information_block1{
 	background:rgb(103,52,124);
 	width:310px;
-    height:200px;
+    height:250px;
 	position:absolute;
 	left:800px;
+	box-sizing:border-box;
+	padding: 0px 20px ;
 }
 #information_block2{
 	background:rgb(77,39,90);
 	width:310px;
-    height:180px;
+    height:250px;
 	position:absolute;
 	left:800px;
-	top:200px;
+	top:250px;
+	box-sizing:border-box;
+	padding: 0px 20px ;
 }
 #information_block3{
 	background:rgb(103,52,124);
@@ -58,8 +82,9 @@ body{
     height:180px;
 	position:absolute;
 	left:800px;
-	top:380px;
-
+	top:450px;
+	box-sizing:border-box;
+	padding: 0px 20px ;
 }
 
 
